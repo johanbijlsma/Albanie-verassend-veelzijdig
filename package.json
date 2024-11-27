@@ -1,0 +1,31 @@
+{
+    "private": true,
+    "description": "A demo project for the Minimalist theme for Bloggrify",
+    "name": "minimalist-demo",
+    "type": "module",
+    "version": "0.9.1",
+    "author": "Eventually Coding <contact@eventuallycoding.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bloggrify/demo-minimalist.git"
+    },
+    "scripts": {
+        "preinstall": "npx playwright install",
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "lint": "eslint ."
+    },
+    "dependencies": {
+        "@bloggrify/core": "1.6.0",
+        "nuxt": "3.14.1592"
+    },
+    "devDependencies": {
+        "@nuxt/eslint-config": "^0.7.1",
+        "@playwright/test": "^1.45.1",
+        "autoprefixer": "10.4.20",
+        "eslint": "9.15.0",
+        "sass": "1.81.0"
+    }
+}
