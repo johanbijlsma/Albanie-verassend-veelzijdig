@@ -13,7 +13,6 @@ tags:
 ---
 
 # Albanië: Een Onontdekte Parel aan de Adriatische Zee
-
 Albanië, gelegen aan de kristalheldere wateren van de Adriatische en Ionische Zee, is een vakantiebestemming die steeds meer reizigers weet te verrassen. Dit land, dat ooit achter het IJzeren Gordijn verscholen lag, biedt een unieke mix van adembenemende natuur, rijke geschiedenis, en een warme gastvrijheid die je direct thuis laat voelen.
 
 ## Ongeëvenaarde Natuur
