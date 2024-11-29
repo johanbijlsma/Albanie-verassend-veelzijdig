@@ -3,8 +3,9 @@ id: "1"
 title: "Albanië, Verassend Veelzijdig"
 description: "Meer informatie over Albanië als vakantieland"
 date: "2024-11-27"
-listed: true
+listed: false
 nocomments: true
+layout: home
 ---
 
 ![Bergen in Albanië](/images/covers/Albanian-mountains.JPG)

@@ -13,7 +13,9 @@
         <main class="mt-10 w-full lg:mx-auto dark:bg-gray-900 dark:text-white">
             <div v-if="doc">
                 <div class="text-center">
-
+                  <div v-if="doc.cover">
+                    <img :src="doc.cover"  :alt="doc.alttext">
+                  </div>
                 </div>
 
                 <ContentRenderer
@@ -37,6 +39,7 @@ defineProps<{
     total: number;
     category: string;
     tag: string;
+    cover: string;
 }>()
 const config = useAppConfig()
 const title = config.name

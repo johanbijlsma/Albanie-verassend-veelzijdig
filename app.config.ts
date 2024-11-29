@@ -79,7 +79,7 @@ export default defineAppConfig({
 
     menu: [
         { name: 'Over Albanie', path: '/over-albanie' },
-        { name: 'Blogs', path: '/blogs' },
+        { name: 'Blogs', path: '/archives' },
     ],
 
     robots: [
